@@ -1,0 +1,24 @@
+{
+  "name": "fullscreenvideolandingpage",
+  "version": "1.0.0",
+  "description": "A showcasing of my ability to reproduce a fullscreen video based landing page.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "fullscreenVideoLandingPage"
+  },
+  "keywords": [
+    "fullscreen",
+    "video",
+    "landing",
+    "page"
+  ],
+  "author": "Adrian Cooke",
+  "license": "ISC",
+  "dependencies": {
+    "npm": "^5.7.1"
+  }
+}
